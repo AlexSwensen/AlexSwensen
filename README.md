@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is AlexSwensen. I'm a Software Engineer in Nashville, TN.
+
+- I work for [Eventbrite](https://github.com/eventbrite).
+- I blog on [my website](https://alexswensen.ioj).
+- My opinions are my own. 🙂
+- 📫 How to reach me: send an email to `contact@alexswensen.io` or open an issue on [my profile](https://github.com/AlexSwensen/AlexSwensen).
+
 <!--
 **AlexSwensen/AlexSwensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

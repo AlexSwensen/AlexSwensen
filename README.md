@@ -3,7 +3,7 @@
 My name is AlexSwensen. I'm a Software Engineer in Nashville, TN.
 
 - I work for [Eventbrite](https://github.com/eventbrite).
-- I blog on [my website](https://alexswensen.ioj).
+- I blog on [my website](https://alexswensen.io).
 - My opinions are my own. 🙂
 - 📫 How to reach me: send an email to `contact@alexswensen.io` or open an issue on [my profile](https://github.com/AlexSwensen/AlexSwensen).
 

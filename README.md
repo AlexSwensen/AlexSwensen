@@ -2,6 +2,9 @@
 
 My name is AlexSwensen. I'm a Software Engineer in Nashville, TN.
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexswensen&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 - I blog on [my website](https://alexswensen.io).
 - My opinions are my own. 🙂
 - 📫 How to reach me: send an email to `contact@alexswensen.io` or open an issue on [my profile](https://github.com/AlexSwensen/AlexSwensen).

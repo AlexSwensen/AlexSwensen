@@ -8,7 +8,7 @@ My name is AlexSwensen. I'm a Software Engineer in Nashville, TN.
 - I blog on [my website](https://alexswensen.io).
 - My opinions are my own and may (or may not) reflect the views of my employer and/or any organization, project, or entity I may be associated with. 🙂
 - 📫 How to reach me: send an email to `contact@alexswensen.io` or open an issue on [my profile](https://github.com/AlexSwensen/AlexSwensen).
-- You can also shoot me a message on [twitter](https://twitter.com/_alexswensen) 🐦
+- You can also shoot me a message on [twitter](https://twitter.com/alexswensen_) 🐦
 
 <!--
 **AlexSwensen/AlexSwensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
